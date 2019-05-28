@@ -4,24 +4,31 @@
         <meta charset="utf-8">
         <title>Programming Portfolio</title>
     </head>
+    
     <body>
        
-        <a href="index.html/myBanner.jpg">
+        <a> href="myBanner.jpg">
             
-            <img src="index.html/myBanner.jpg">
+            <img src="myBanner.jpg">
             </a>
-       
+     </body>
      
-        <table>
-          <thead>
-            <tr>
-              <th>Home</th>
-              <th>Javascripts</th>
-              <th>Apps</>
-              <th>About Me</th>
-            </tr>
-           </thread>
-      </body>
+     
+     <style>
+     	nav	{background_image: url ("mybackground.jpg);
+        	
+     
+     
+     </style>
+        <nav> 
+          <ul>
+              <li><a>href="home.png">Home</a></li>
+              <li><a>href="javascripts.png">Javascripts</a></li>
+              <li><a>href="Apps.png">Apps</a></li>
+              <li><a>href="AboutMe.png>About Me</a></li>
+            </ul>
+           </nav>
+      </style>
         
          <h1>Welcome to my Page!</h1>
          
