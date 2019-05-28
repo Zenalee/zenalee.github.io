@@ -6,9 +6,9 @@
     </head>
     <body>
        
-        <a href="https://myBanner.jpg">
+        <a href="myBanner.jpg">
             
-            <img src="https://myBanner.jpg">
+            <img src="myBanner.jpg">
             </a>
        
      
