@@ -15,11 +15,11 @@
      
      
      <style>
-     	nav	{background_image: url ("mybackground.jpg);
-        	
-     
-     
+     	<nav>	{background_image: url ("mybackground.jpg);
+        </nav>          
      </style>
+      
+     <style> 
         <nav> 
           <ul>
               <li><a>href="home.png">Home</a></li>
@@ -30,15 +30,14 @@
            </nav>
       </style>
         
+      <body>
          <h1>Welcome to my Page!</h1>
          
          <p>This is a work in progress website, my first of many. The site will describe a little bit of information about myself, and the progess I am making as a newbie html student.  Please be patient with my first attempts at using html.  And, PLEASE reach out to me with any advice!  Thank you for visiting my page.</p>
          
          
-        
-       
-
+           
+    
      
-        
     </body>
 </html>
