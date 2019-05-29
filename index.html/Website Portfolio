@@ -18,6 +18,16 @@
      	<nav>	{background_image: url ("mybackground.jpg);
         </nav>          
      </style>
+     
+   
+   
+   <p>Home</p>
+     
+     	<a target="home" href="https://zenalee.github.io/index.html/home.png"></a>
+         
+  
+     
+     
       
       <table>
           <thead>
